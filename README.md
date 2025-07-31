@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Muhammad Amor</h1>
+<p align="center">Software Engineer · Automator · Problem Solver</p>
 
-<!--
-**mohamor2002/mohamor2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I don’t just write code — I design systems.  
+> I believe in turning chaos into workflows and ideas into impact.
+
+---
+
+### ⚙️ Stack Snapshot
+
+**Languages**: TypeScript · JavaScript · SQL  
+**Tools**: React · Node.js · Supabase · n8n · Prisma · Express  
+**Specialty**: Automation-first apps & systems thinking
+
+---
+
+### 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamor2002&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohamor2002&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📬 Contact
+
+- [LinkedIn](https://linkedin.com/in/your-username)
+- [Email](mailto:your.email@example.com)
