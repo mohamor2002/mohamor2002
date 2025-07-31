@@ -9,8 +9,7 @@
 
 ### Philosophy
 
-> I write code like it’s infrastructure — reliable, minimal, and built to scale.  
-> No buzzwords, no noise — just real solutions for real problems.
+> Commit with care, push with caution… and merge like you own the place. 😎
 
 ---
 
