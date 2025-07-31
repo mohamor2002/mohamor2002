@@ -15,6 +15,8 @@
 
 <img src="https://i.ibb.co/hx5tfKBc/2151041282.jpg" alt="Japanese lo-fi city street" style="width:100%;" />
 
+---
+
 ### Tech Stack
 
 #### Languages  
