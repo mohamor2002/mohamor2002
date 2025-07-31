@@ -17,26 +17,23 @@
 ### Tech Stack
 
 #### Languages  
-`TypeScript` · `JavaScript` · `Python` · `C#`
+TypeScript · JavaScript · Python · C#
 
 #### Frameworks & Tools  
-`Node.js` · `React` · `Next.js` · `Express` · `Prisma` · `Supabase` · `Tailwind`
+Node.js · React · Next.js · Express · Prisma · Supabase · Tailwind
 
 #### Practices  
-`API Design` · `Full Stack Development` · `Clean Code` · `System Design` · `CI/CD`
+API Design · Full Stack Development · Clean Code · System Design · CI/CD
 
 ---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamor2002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://gh-stats-mohamor.vercel.app/api?username=mohamor2002&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohamor2002&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamor2002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://gh-stats-mohamor.vercel.app/api/top-langs/?username=mohamor2002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -44,8 +41,12 @@
 ### Reach Out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-amor-124483234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lm_amor@esi.dz"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-amor-124483234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lm_amor@esi.dz">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
