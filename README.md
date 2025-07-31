@@ -7,27 +7,27 @@
 
 ---
 
-### 🧠 Philosophy
+### Philosophy
 
 > I write code like it’s infrastructure — reliable, minimal, and built to scale.  
 > No buzzwords, no noise — just real solutions for real problems.
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
-#### 🧩 Languages  
+#### Languages  
 `TypeScript` · `JavaScript` · `Python` · `C#`
 
-#### 🛠 Frameworks & Tools  
+#### Frameworks & Tools  
 `Node.js` · `React` · `Next.js` · `Express` · `Prisma` · `Supabase` · `Tailwind`
 
-#### 🔁 Practices  
+#### Practices  
 `API Design` · `Full Stack Development` · `Clean Code` · `System Design` · `CI/CD`
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamor2002&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 📫 Reach Out
+### Reach Out
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amor-124483234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
