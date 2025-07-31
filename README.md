@@ -2,14 +2,13 @@
 <p align="center">Software Engineer · Fullstack Web Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Building+tools+that+actually+get+used.;I+fix+what+slows+people+down.;Software+should+serve%2C+not+show+off."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Software+should+serve%2C+not+show+off."/>
 </p>
 
 ---
-
 ### Philosophy
 
-> Commit with care, push with caution… and merge like you own the place. 😎
+>#### Commit with care, push with caution… and merge like you own the place. 😎
 
 ---
 
