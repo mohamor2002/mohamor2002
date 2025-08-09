@@ -7,26 +7,7 @@
 
 ---
 
-### Philosophy
-
->#### Commit with care, push with caution… and merge like you own the place. 😎
-
----
-
 <img src="https://i.ibb.co/hx5tfKBc/2151041282.jpg" alt="Japanese lo-fi city street" style="width:100%;" />
-
----
-
-### Tech Stack
-
-#### Languages  
-TypeScript · JavaScript · Python · C#
-
-#### Frameworks & Tools  
-Node.js · React · Next.js · Express · Prisma · Supabase · Tailwind
-
-#### Practices  
-API Design · Full Stack Development · Clean Code · System Design · CI/CD
 
 ---
 
@@ -53,5 +34,3 @@ API Design · Full Stack Development · Clean Code · System Design · CI/CD
 </p>
 
 ---
-
-<p align="center"><i>"Good code solves problems. Great code disappears."</i></p>
